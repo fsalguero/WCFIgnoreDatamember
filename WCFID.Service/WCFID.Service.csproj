@@ -67,6 +67,7 @@
     <Compile Include="FooService.cs" />
     <Compile Include="IFooService.cs" />
     <Compile Include="IgnoreDataMemberAttribute.cs" />
+    <Compile Include="IgnoreDataMemberBehavior.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
